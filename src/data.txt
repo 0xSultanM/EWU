@@ -3,3 +3,10 @@ Activity: Cycling, Duration: 12.0 minutes, Calories burned: 48.0
 Activity: Running, Duration: 23.0 minutes, Calories burned: 57.5
 Activity: Milk, Duration: 1.0 minutes, Calories burned: 146.0
 Activity: Milk, Duration: 23.0 minutes, Calories burned: 3358.0
+Activity: Cycling, Duration: 23.0 minutes, Calories burned: 92.0
+Activity: Meat, Duration: 23.0 minutes, Calories burned: 9430.0
+Activity: Running, Duration: 2.0minutes, , Calories burned: 62.5
+Activity: Swimming, Duration: 12.0minutes, , Calories burned: 1443.6
+Activity: Vegetables, Duration: 2.0minutes, , Calories burned: 220.0
+Activity: Meat, Duration: 2.0minutes, , Calories burned: 820.0
+Exercise Name: Squats, Repitition: 10.0times, and number of sets: 5.0
