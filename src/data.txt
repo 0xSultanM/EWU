@@ -1,0 +1,5 @@
+Activity: Running, Duration: 23.0 minutes, Calories burned: 57.5
+Activity: Cycling, Duration: 12.0 minutes, Calories burned: 48.0
+Activity: Running, Duration: 23.0 minutes, Calories burned: 57.5
+Activity: Milk, Duration: 1.0 minutes, Calories burned: 146.0
+Activity: Milk, Duration: 23.0 minutes, Calories burned: 3358.0
